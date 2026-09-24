@@ -6,6 +6,6 @@ Part of the **Zion AI App Network** — 678+ interlinked AI apps, tools and play
 - 🗂️ Directory: https://ziontechgroup.com/zion-app-network/
 - 🐙 Hub: https://github.com/Zion-support/zion-app-network
 - 🌐 Live app: https://ziontechgroup.com/zion-ai-doc-processor/
-- 🔗 Related: [Zion AI Data Quality](https://ziontechgroup.com/zion-ai-data-quality/) · [Customs Doc Generator](https://ziontechgroup.com/customs-doc-generator/) · [Discovery](https://ziontechgroup.com/discovery/)
+- 🔗 Related: [Zion AI Docs Doctor](https://ziontechgroup.com/zion-ai-docs-doctor/) · [Customs Doc Generator](https://ziontechgroup.com/customs-doc-generator/) · [Discovery](https://ziontechgroup.com/discovery/)
 
 © 2026 Zion Tech Group.
